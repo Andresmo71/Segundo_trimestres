@@ -11,5 +11,6 @@ public class EJ1_RANDOM {
 			System.out.print(n+" ");
 		
 	}
+		System.out.println("Cambio en el archivo");
  }
 }
